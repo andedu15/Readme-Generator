@@ -1,0 +1,26 @@
+{
+  "name": "Readme-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "inquirer": "^6.5.2",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andedu15/Readme-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andedu15/Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/andedu15/Readme-Generator#readme"
+}
